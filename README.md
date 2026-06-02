@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator
+# Simple Calculator
 
 A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations with an attractive glassmorphism UI, animated gradient background, and interactive button effects.
 
